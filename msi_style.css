@@ -1,0 +1,371 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(0, 0, 0);
+}
+.top_bar_01
+{
+    width: 17%;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    cursor: pointer;
+}
+.top_bar_02
+{
+    width: 67%;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.top_bar_03
+{
+    width:16%;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.msi_logo_im
+{
+    width: 112px;
+    margin-top: 30px;
+    margin-left: 103px;
+}
+.top_bar_index_01
+{
+    padding-top: 34px;
+    width: 130px;
+    font-size: 19.3px;
+    font-weight: 780;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+    color: #666362;
+    cursor: pointer;
+}
+.top_bar_index_01:hover
+{
+    color: black;
+}
+.top_bar_index_02
+{
+    padding-top: 34px;
+    width: 180px;
+    font-size: 19.3px;
+    font-weight: 780;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+    color: #666362;
+    cursor: pointer;
+}
+.top_bar_index_02:hover
+{
+    color: black;
+}
+.top_bar_index_03
+{
+    padding-top: 34px;
+    width: 160px;
+    font-size: 19.3px;
+    font-weight: 780;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+    color: #666362;
+    cursor: pointer;
+}
+.top_bar_index_03:hover
+{
+    color: black;
+}
+.top_bar_index_04
+{
+    padding-top: 34px;
+    width: 150px;
+    font-size: 19.3px;
+    font-weight: 780;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+    color: #666362;
+    cursor: pointer;
+}
+.top_bar_index_04:hover
+{
+    color: black;
+}
+.icon_align
+{
+    padding-left: 30px;
+    padding-top: 30px;
+    width: 140px;
+}
+.image_01
+{
+    width: 100%;
+    height: 550px;
+}
+.image_frame_02_1
+{
+    width: 50%;
+    height: 550px;
+    float: left;
+    background-image: url("https://storage-asset.msi.com/global/picture/banner/banner_166450273097c3083d1414ce0e54313ed030e03818.png");
+    background-size: 760px;
+    padding: 0;
+}
+.image_frame_02_2
+{
+    width: 50%;
+    height: 550px;
+    float: left;
+    background-image: url("https://storage-asset.msi.com/global/picture/banner/banner_1664153511bd83840a086cc05b077cadaf241a74e9.jpeg");
+    background-size: 834px;
+    
+}
+.image_02_ln_01
+{
+    font-size: 22px;
+    margin-left: 333px;
+    color: aliceblue;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+
+}
+.image_02_ln_02
+{
+    color: aliceblue;
+    margin-left: 274px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+
+}
+.image_02_2_ln_1
+{
+    font-size: 22px;
+    margin-left: 230px;
+    color: rgb(255, 255, 255);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+.image_02_2_ln_2
+{
+    margin-left: 344px;
+    color: rgb(255, 255, 255);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+} 
+.image_fram_03
+{
+    width: 100%;
+    height: 550px;
+}
+.image_frame_04_01
+{
+    width:50%;
+    height: 311px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 0.5) 0%, rgba(215, 213, 213, 0.5) 50%), url("https://storage-asset.msi.com/frontend/imgs/product_registration.jpg");
+    float: left;
+    background-size: 863px;
+}
+.img_04_01_txt
+{
+    margin-top: 79px;
+    margin-left: 276px;
+}
+.img04_ln_01
+{
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+    color: black;
+    font-weight: bolder;
+    margin-left: 80px;
+    font-size: 19px;
+}
+#input_icon_01
+{
+    font-size: 74px;
+    margin-left: 116px;
+}
+.img04_ln_02
+{
+    color: rgb(166, 149, 149);
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+}
+.image_frame_04_02
+{
+    width:50%;
+    height: 311px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 0.5) 0%, rgba(215, 213, 213, 0.5) 50%),url("https://storage-asset.msi.com/frontend/imgs/support_service_location.jpg");
+    float: left;
+    background-size: 863px;
+}
+.img_04_02_txt
+{
+    margin-top: 79px;
+    margin-left: 251px;
+}
+#cstmr_care_icn
+{
+    margin-left: 113px;
+    font-size: 56px;
+}
+.img04_02_ln_01
+{
+    margin-left: 39px;
+    font-weight:bolder ;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+    font-size: 19px;
+}
+.img04_02_ln_02
+{
+    margin-left: 37px;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+    color: #666362;
+    font-size: 15px;
+}
+.image_frame_05_01
+{
+    width: 25%;
+    height: 250px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 0.5) 0%, rgba(215, 213, 213, 0.5) 50%), url("https://storage-asset.msi.com/frontend/imgs/forum.jpg");
+    float: left;
+    background-size: 381px;
+}
+.image_05_txt_01
+{
+    margin-left: 152px;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+}
+.img05_textbox
+{
+    width:100%;
+    height: 50px;
+    background-color:transparent;
+    margin-top: 113px;
+}
+.image_frame_05_02
+{
+    width: 25%;
+    height: 250px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 0.5) 0%, rgba(215, 213, 213, 0.5) 50%),url("https://storage-asset.msi.com/frontend/imgs/reward.jpg");
+    background-color: (white)50%;
+    float: left;
+    background-size: 381px;
+}
+.image_05_txt_02
+{
+    margin-left: 86px;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+}
+.iamge_frame_05_03
+{
+    width: 25%;
+    height: 250px;
+    
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0.5) 0%, rgba(215, 213, 213, 0.5) 50%), url("https://storage-asset.msi.com/frontend/imgs/video.jpg");
+    float: left;
+    background-size: 381px;
+    
+}
+.image_05_txt_03
+{
+    margin-left: 170px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+}
+.image_frame_05_04
+{
+    width: 25%;
+    height: 250px;
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0.5) 0%, rgba(215, 213, 213, 0.5) 50%), url("https://storage-asset.msi.com/frontend/imgs/insider.jpg");
+    float: left;
+    background-size: 502px;
+}
+.image_05_txt_04
+{
+    margin-left: 146px;
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+}
+.frame_06
+{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(255, 255, 255);
+
+}
+.frame_07
+{
+    width: 100%;
+    height:100px;
+    color:aqua;
+    float: left;
+}
+.index_align
+{
+    width: 90%;
+    height: 44%;
+
+}
+.final_index
+{
+
+    font-size: 15px;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+}
+.index_heading
+{
+    font-size: 19px;
+    font-weight: bolder;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+
+}
+.final_box_01
+{
+    width:10%;
+    height:65px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.final_box_02
+{
+    width:45%;
+    height:65px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.final_box_03
+{
+    width:45%;
+    height:65px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.msi_logo
+{
+    width: 46px;
+    margin-top: 30px;
+    margin-left: 103px;
+}
+.copyright_text
+{
+    margin-top: 29px;
+    font-size: 12px;
+    color: #666362;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+
+}
+.last_tbl
+{
+    margin-top: 29px;
+    width:67%;
+}
+.last_sec
+{
+    font-size: 10px;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+
+    
+}
+
+
+
+
+/* background-color: linear-gradient(to top, rgba(216, 209, 209, 0.5) 50%, rgba(0,0,0,0.5) 50%); */
